@@ -94,7 +94,7 @@ src/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/visista-srivalli/zorvyn.git
+[git clone https://github.com/visista-srivalli/zorvyn.git](https://github.com/Visista-Srivalli/zorvyn.git)
 cd finance-dashboard
 ```
 
